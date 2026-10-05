@@ -1,4 +1,4 @@
-# sales-data-analysis
+# Sales Data Analysis Dashboard
 Sales data analysis project using Power BI to identify sales trends, top products, and business insights.
 # Sales Data Analysis Dashboard
 
@@ -43,7 +43,7 @@ sales-data-analysis/
 │
 ├── README.md
 ├── Sales_Data_Analysis.pbix
-└── screenshots/
+
     ├── dashboard.png
     └── analysis.png
 ```
