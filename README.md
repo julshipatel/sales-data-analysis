@@ -68,5 +68,5 @@ The dashboard helps identify:
 
 **Julshi Patel**
 
-BSc IT (Hons) | Data Analytics & Software Development
+BSc IT (Hons) | Data Analytics.
 
